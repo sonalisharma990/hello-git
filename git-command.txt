@@ -1,0 +1,7 @@
+git init - it initialise a repository
+git config --global user.name"sonalisharma990" -tell who you are
+git config --global user.email"sonalisharmasonali20@gmail.com" -tell who you are
+git add . -add files
+git commit - commit changes to head
+git push origin master - send changes to the master branch of remote repository
+git status - list the file you have changedand those you need to add or commit
